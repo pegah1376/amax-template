@@ -1,0 +1,306 @@
+html {
+    background-color: #575757;
+}
+
+/* 
+.container {
+    background-color: #32353E !important;
+} */
+
+html * {
+    font-family: Yekan;
+}
+
+.logo-amax {
+    width: 320px;
+    background-color: #CEA71D;
+    color: white;
+    text-align: center;
+}
+
+.navbar-boxes {
+    background-color: white;
+}
+
+
+.elements {
+    margin: 0em;
+    padding: 0em;
+    margin-left: 0em;
+}
+
+
+.test {
+    background-color: #32353E !important;
+    color: white !important;
+    height: 50PX !important;
+    width: 66px !important;
+}
+
+.test2 {
+    background-color: white !important;
+    color: #32353E !important;
+    height: 50PX !important;
+    width: 66px !important;
+}
+
+.test3 {
+    background-color: white !important;
+    color: #32353E !important;
+    height: 50PX !important;
+    width: 66px !important;
+}
+
+.input-box {
+    margin-right: -5em !important;
+}
+
+.average-box {
+    margin-left: 4.5em;
+    color: #A0A0A0;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.average {
+    font-size: 0.8em;
+    margin-left: 3em;
+    direction: rtl;
+    margin-top: 1em;
+}
+
+.number-1 {
+    font-size: 1.5em;
+    margin-right: 0em;
+}
+
+.number-2 {
+    font-size: 0.5em;
+    margin-right: 1em;
+
+    color: #A0A0A0;
+}
+
+.number-box {
+    margin-top: -0.3em;
+    direction: ltr !important;
+}
+
+.number-box2 {
+    margin-top: -1em;
+
+}
+
+.number-box3 {
+    margin-top: -0.5em;
+}
+
+.sizes {
+    width: 250px !important;
+}
+
+.icon-color {
+    color: #CEA71D;
+}
+
+.boxes-number {
+    background-color: #444753 !important;
+    border-radius: 0.5em !important;
+    margin-left: 0.5em;
+}
+
+.boxes-number {
+    padding-right: 0em;
+    padding-top: 1.8em;
+    padding-left: 0em;
+    padding-bottom: 0em !important;
+}
+
+.columns-foter {
+    background-color: #32353E;
+    padding: 0em;
+    margin-left: 0em;
+    margin-right: 0em;
+}
+
+.columns-footer-2 {
+    background-color: red;
+}
+
+
+.column-foter {
+    padding: 1.5em;
+    margin: 1.8ex;
+    background-color: #444753;
+    box-sizing: border-box;
+    border-radius: 1.5ex;
+    margin-left: 0em;
+    margin-left: 0em;
+    margin: 1;
+
+}
+
+.column-foter .button-box-foter {
+    text-align: unset !important;
+    color: #A0A0A0;
+    margin-top: 2em;
+    justify-content: center;
+    margin-right: 0.5em;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+}
+
+.column-foter .icons-foter {
+    font-size: 2em;
+    margin-right: 0.5em;
+}
+
+.icons-boxes {
+    margin-left: 0em;
+
+}
+
+.chart-boxes {
+    background-color: #444753 !important;
+    margin-left: 5em !important;
+    padding: 0em;
+
+}
+
+.back1 {
+    background-color: #32353E;
+}
+
+.amaxx {
+    margin-top: 0.5em;
+}
+
+.back2 {
+    background-color: white;
+}
+
+.back3 {
+    background: unset;
+    background-color: white;
+}
+
+.color-icons {
+    color: #CEA71D;
+}
+
+.hero-foot {
+    background-color: #32353E;
+}
+
+.columns-foter .column {
+    box-sizing: border-box;
+    background-color: #444753;
+    color: white;
+    border-radius: 0.5em;
+}
+
+.img-chart {
+    width: 1200px;
+    margin-top: 24em;
+}
+
+.search-box {
+    color: white;
+
+    border-color: #A0A0A0;
+}
+
+.icons-button-box {
+    margin-left: -0.7em;
+    margin-right: -0.5em;
+    padding: 0em;
+}
+
+.icons-button {
+    padding: 1.5em;
+    margin: 0.7em;
+}
+
+.right-box {}
+
+.arrange {
+    color: #A0A0A0;
+}
+
+.buttondesign:hover {
+    border-color: orange;
+    outline: #CEA71D;
+    box-shadow: orange;
+}
+
+.inputdesign:hover {
+    border-color: #A0A0A0 !important;
+    outline: #CEA71D !important;
+    box-shadow: 0 0 8px #CEA71D !important;
+}
+
+.menu-icon {
+    border-radius: 0em !important;
+}
+
+
+.amax-brand {
+    padding: 3.7em;
+    margin: 5em !important;
+    padding-left: 0em;
+    background-color: #32353E !important;
+
+}
+
+.logo-size {
+    width: 70px;
+    height: 75px;
+    justify-content: left;
+    display: flex;
+    background-color: #32353E;
+}
+
+.right-box {
+    padding: 0em !important;
+    margin-left: 0.4em;
+    margin-bottom: 0.4em;
+    margin-right: 0.5em;
+    margin-top: 1.1em;
+}
+
+.is-width-90p {
+    width: 90%;
+}
+
+.nav-button {
+    background-color: white;
+    padding: .8em;
+    padding-top: -0.1em;
+    padding-left: 1.2em;
+    padding-right: 1.2em;
+    color: #32353E;
+}
+
+.navbar-design {
+    height: 4.5em;
+    
+}
+
+.hero-head .logo {
+    background-color: #CEA71D;
+    color: white;
+}
+
+.toolbox .nav-button:last-child {
+    color: white;
+    background-color: #32353E;
+}
+
+.space-butoon{
+margin-right: 0.5em;
+}
+
+.amax-logo-1{
+    font-family: sans-serif;
+    font-size: 1.5em;
+}
